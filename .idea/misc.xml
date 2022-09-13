@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.37447916666666664" />
+        <entry key="../../Library/Android/sdk/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.29846014492753625" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.257" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/drawable/bg_round.xml" value="0.3635" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/drawable/border.xml" value="0.257" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/drawable/button_selector.xml" value="0.257" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/drawable/drawer.xml" value="0.257" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/drawable/ic_launcher_background.xml" value="0.257" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/drawable/ic_menu_camera.xml" value="0.257" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.257" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.257" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/drawable/my_location.xml" value="0.257" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/drawable/my_location_normal.xml" value="0.257" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/drawable/round_border.xml" value="0.257" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/drawable/search_round.xml" value="0.257" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/drawable/side_nav_bar.xml" value="0.257" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/drawable/style.xml" value="0.257" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/layout/activity_crime.xml" value="0.32222222222222224" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/layout/activity_food_result.xml" value="0.32222222222222224" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/layout/activity_map.xml" value="0.32222222222222224" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/layout/activity_maps.xml" value="0.33" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/layout/activity_rating_page.xml" value="0.32222222222222224" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/layout/activity_register.xml" value="0.32222222222222224" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/layout/activity_result.xml" value="0.32222222222222224" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/layout/activity_security_result.xml" value="0.32222222222222224" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/layout/activity_test.xml" value="0.32472826086956524" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/layout/activity_welcome.xml" value="0.33" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/layout/app_bar_map.xml" value="0.30972222222222223" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/layout/content_map.xml" value="0.32222222222222224" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/layout/custom_info_contents.xml" value="0.32472826086956524" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/layout/details_item.xml" value="0.33" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/layout/fragment_gallery.xml" value="0.30972222222222223" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/layout/fragment_home.xml" value="0.30972222222222223" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/layout/fragment_slideshow.xml" value="0.30972222222222223" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/layout/map_content.xml" value="0.32222222222222224" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/layout/map_details_item.xml" value="0.32222222222222224" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/layout/nav_header_map.xml" value="0.32222222222222224" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/layout/rating_list_items.xml" value="0.32222222222222224" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/layout/review_list_item.xml" value="0.32222222222222224" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/layout/welcome_spinner_item.xml" value="0.32222222222222224" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/menu/activity_main_drawer.xml" value="0.32222222222222224" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/menu/current_place_menu.xml" value="0.3625" />
+        <entry key="..\:/AndroidProject/ApartmentRating/app/src/main/res/menu/map.xml" value="0.32222222222222224" />
+        <entry key="..\:/Users/admin/Desktop/ApartmentRating/app/src/main/res/layout/activity_main.xml" value="0.29257246376811596" />
+        <entry key="..\:/Users/admin/Desktop/ApartmentRating/app/src/main/res/layout/activity_security_result.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/style/AndroidStudioProjects/ApartmentRating/app/src/main/res/font/font.xml" value="0.2969230769230769" />
+        <entry key="..\:/Users/style/AndroidStudioProjects/ApartmentRating/app/src/main/res/font/newsreader.xml" value="0.3015625" />
+        <entry key="..\:/Users/style/AndroidStudioProjects/ApartmentRating/app/src/main/res/layout/activity_crime.xml" value="0.1265625" />
+        <entry key="..\:/Users/style/AndroidStudioProjects/ApartmentRating/app/src/main/res/layout/activity_login.xml" value="0.26813880126182965" />
+        <entry key="..\:/Users/style/AndroidStudioProjects/ApartmentRating/app/src/main/res/layout/activity_main.xml" value="0.1265625" />
+        <entry key="..\:/Users/style/AndroidStudioProjects/ApartmentRating/app/src/main/res/layout/activity_map.xml" value="0.21458333333333332" />
+        <entry key="..\:/Users/style/AndroidStudioProjects/ApartmentRating/app/src/main/res/layout/activity_maps.xml" value="0.1" />
+        <entry key="..\:/Users/style/AndroidStudioProjects/ApartmentRating/app/src/main/res/layout/activity_rating_page.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/style/AndroidStudioProjects/ApartmentRating/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/style/AndroidStudioProjects/ApartmentRating/app/src/main/res/layout/activity_result.xml" value="0.1" />
+        <entry key="..\:/Users/style/AndroidStudioProjects/ApartmentRating/app/src/main/res/layout/activity_review.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/style/AndroidStudioProjects/ApartmentRating/app/src/main/res/layout/activity_welcome.xml" value="0.1175925925925926" />
+        <entry key="..\:/Users/style/AndroidStudioProjects/ApartmentRating/app/src/main/res/layout/custom_info_contents.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/style/AndroidStudioProjects/ApartmentRating/app/src/main/res/layout/details_item.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/style/AndroidStudioProjects/ApartmentRating/app/src/main/res/layout/rating_list.xml" value="0.24375" />
+        <entry key="..\:/Users/style/AndroidStudioProjects/ApartmentRating/app/src/main/res/layout/rating_list_items.xml" value="0.3263888888888889" />
+        <entry key="..\:/Users/style/AndroidStudioProjects/ApartmentRating/app/src/main/res/layout/review_list_item.xml" value="0.3263888888888889" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1855" />
+        <entry key="app/src/main/res/drawable/button_selector.xml" value="0.3425" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1005" />
+        <entry key="app/src/main/res/drawable/my_location.xml" value="0.1855" />
+        <entry key="app/src/main/res/drawable/search_round.xml" value="0.1855" />
+        <entry key="app/src/main/res/layout/activity_crime.xml" value="0.2427536231884058" />
+        <entry key="app/src/main/res/layout/activity_food_result.xml" value="0.18072916666666666" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.2427536231884058" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2427536231884058" />
+        <entry key="app/src/main/res/layout/activity_map.xml" value="0.29846014492753625" />
+        <entry key="app/src/main/res/layout/activity_maps.xml" value="0.2427536231884058" />
+        <entry key="app/src/main/res/layout/activity_rating_page.xml" value="0.2427536231884058" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.2427536231884058" />
+        <entry key="app/src/main/res/layout/activity_result.xml" value="0.2427536231884058" />
+        <entry key="app/src/main/res/layout/activity_review.xml" value="0.29030797101449274" />
+        <entry key="app/src/main/res/layout/activity_security_result.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_store_result.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_transportation_result.xml" value="0.29846014492753625" />
+        <entry key="app/src/main/res/layout/activity_welcome.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/custom_info_contents.xml" value="0.2427536231884058" />
+        <entry key="app/src/main/res/layout/details_item.xml" value="0.2427536231884058" />
+        <entry key="app/src/main/res/layout/map_content.xml" value="0.29846014492753625" />
+        <entry key="app/src/main/res/layout/map_details_item.xml" value="0.29030797101449274" />
+        <entry key="app/src/main/res/layout/nav_header_map.xml" value="0.29846014492753625" />
+        <entry key="app/src/main/res/layout/range_filter.xml" value="0.29846014492753625" />
+        <entry key="app/src/main/res/layout/rating_list_items.xml" value="0.2427536231884058" />
+        <entry key="app/src/main/res/layout/review_list_item.xml" value="0.29846014492753625" />
+        <entry key="app/src/main/res/layout/welcome_spinner_item.xml" value="0.29846014492753625" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2427536231884058" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

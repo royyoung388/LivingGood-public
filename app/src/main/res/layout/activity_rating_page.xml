@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/score_page"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:theme="@style/Theme.ApartmentRating"
+    tools:context=".view.RatingPageActivity">
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/OverallratingBar" />
+
+    <ImageView
+        android:id="@+id/topimage"
+        android:layout_width="0dp"
+        android:layout_height="186dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/apartment" />
+
+    <RatingBar
+        android:id="@+id/OverallratingBar"
+        style="?android:attr/ratingBarStyleIndicator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-7dp"
+        android:isIndicator="true"
+        android:numStars="5"
+        android:scaleX=".9"
+        android:scaleY=".9"
+        android:stepSize="0.5"
+        android:theme="@style/RatingBar"
+        app:layout_constraintStart_toEndOf="@+id/overall"
+        app:layout_constraintTop_toTopOf="@+id/overall" />
+
+    <TextView
+        android:id="@+id/overall_score"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="28dp"
+        android:text="5.0"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="@+id/OverallratingBar"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/apart_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/name"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/topimage" />
+
+    <TextView
+        android:id="@+id/overall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="64dp"
+        android:text="@string/overall"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="@+id/apart_name"
+        app:layout_constraintTop_toBottomOf="@+id/topimage" />
+
+    <TextView
+        android:id="@+id/all_review"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/seereviews"
+        android:textColor="#1882D6"
+        android:textStyle="italic"
+        app:layout_constraintBottom_toTopOf="@+id/overall_score"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.952"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/topimage" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

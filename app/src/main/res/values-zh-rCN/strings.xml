@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LivingGood</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="maps_api_key">AIzaSyAhD8wNcegW74ZRQdnWjMIsaY3I8mu6qlU</string>
+
+    <string name="default_info_title">默认地址</string>
+    <string name="default_info_snippet">找不到地址，未能获得权限</string>
+    <string name="option_get_place">获取地址</string>
+    <string name="pick_place">选择地址</string>
+    <string name="details_high">230dp</string>
+    <string name="slogan"><u>寻找你的下一个居心地</u></string>
+    <string name="logout"><u>登出</u></string>
+    <string name="brand">公寓评分</string>
+    <string name="email">电子邮箱</string>
+    <string name="password">密码</string>
+    <string name="login">登陆</string>
+    <string name="forget">忘记密码</string>
+    <string name="register">注册</string>
+    <string name="register1">With A</string>
+    <string name="register2">Good Start</string>
+    <string name="name">Full Name</string>
+
+    <string name="title_activity_security_result">SecurityResultActivity</string>
+
+    <string name="title_activity_food_result">FoodResultActivity</string>
+    <string name="title_activity_transportation_result">TransportationResultActivity</string>
+    <string name="title_activity_store_result">StoreResultActivity</string>
+
+
+    <string name="min_price">最低价</string>
+    <string name="maxprice">最高价</string>
+    <string name="livingood">安居</string>
+    <string name="bedroom">卧室</string>
+    <string name="bathroom">卫生间</string>
+    <string name="preference">偏好</string>
+    <string name="food">餐饮</string>
+    <string name="security">安全</string>
+    <string name="transit">切换</string>
+    <string name="store">商店</string>
+    <string name="radius">范围</string>
+    <string name="search">搜索</string>
+
+    <array name="rating_type">
+        <item>@string/security</item>
+        <item>@string/food</item>
+        <item>@string/transit</item>
+        <item>@string/store</item>
+    </array>
+
+    <string name="rating_summary_security">起案件在过去半年内</string>
+    <string name="rating_summary_food">个餐馆在此附近</string>
+    <string name="rating_summary_transit">个车站在此附近</string>
+    <string name="rating_summary_store">个超市在此附近</string>
+
+    <string name="estimatescore">预估分数</string>
+    <string name="total_incidents">总事件</string>
+    <string name="getcrimedata">获取犯罪数据</string>
+
+    <string name="overall">总分</string>
+    <string name="seereviews">查看评价</string>
+
+    <string name="Logout">登出</string>
+
+    <string name="Comment">评论</string>
+
+    <string name="ApartmentName">公寓名称</string>
+    <string name="TextView">文本内容</string>
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "670527478533",
+    "project_id": "apartment-rating-d5942",
+    "storage_bucket": "apartment-rating-d5942.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670527478533:android:2b94063ecbbb3f0338356c",
+        "android_client_info": {
+          "package_name": "com.bu.livinggood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670527478533-2df56hspgsfn5b14o54gddnspobrc5fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1ru2av5kzfe4Odnc-c8_RtwcbmKzphmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670527478533-2df56hspgsfn5b14o54gddnspobrc5fb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">LivingGood</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="maps_api_key"></string>
+
+    <string name="default_info_title">Default Location</string>
+    <string name="default_info_snippet">No places found, because location permission is disabled.</string>
+    <string name="option_get_place">Get place</string>
+    <string name="pick_place">Choose a place</string>
+    <string name="details_high">230dp</string>
+    <string name="slogan"><u>Find your next best place to live</u></string>
+    <string name="logout"><u>Log Out</u></string>
+    <string name="brand">Apt Rating</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forget">forget password</string>
+    <string name="register">Register</string>
+    <string name="register1">With A</string>
+    <string name="register2">Good Start</string>
+    <string name="name">Full Name</string>
+
+    <string name="title_activity_security_result">SecurityResultActivity</string>
+
+    <string-array name="preference">
+        <item>-</item>
+        <item>Apartment Condition</item>
+        <item>Restaurant</item>
+        <item>Safety</item>
+        <item>Schools</item>
+    </string-array>
+
+    <string-array name="price">
+        <item>-</item>
+        <item>0</item>
+        <item>1000</item>
+        <item>1500</item>
+        <item>2000</item>
+        <item>2500</item>
+        <item>3000</item>
+        <item>3500</item>
+        <item>4000+</item>
+    </string-array>
+
+    <string-array name="bedroom">
+        <item>-</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4+</item>
+    </string-array>
+
+    <string-array name="bathroom">
+        <item>-</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4+</item>
+    </string-array>
+
+    <string name="title_activity_food_result">FoodResultActivity</string>
+    <string name="title_activity_transportation_result">TransportationResultActivity</string>
+    <string name="title_activity_store_result">StoreResultActivity</string>
+
+
+    <string name="min_price">Min Price</string>
+    <string name="maxprice">Max Price</string>
+    <string name="livingood">Livingood</string>
+    <string name="bedroom">Bedroom</string>
+    <string name="bathroom">Bathroom</string>
+    <string name="preference">Preference</string>
+    <string name="food">Food</string>
+    <string name="security">Security</string>
+    <string name="transit">Transit</string>
+    <string name="store">Store</string>
+    <string name="radius">Radius</string>
+    <string name="search">Search</string>
+
+    <array name="rating_type">
+        <item>@string/security</item>
+        <item>@string/food</item>
+        <item>@string/transit</item>
+        <item>@string/store</item>
+    </array>
+
+    <string name="rating_summary_security">incidents last half year</string>
+    <string name="rating_summary_food">restaurants around</string>
+    <string name="rating_summary_transit">bus stations around</string>
+    <string name="rating_summary_store">stores around</string>
+
+    <string name="estimatescore">Estimate Score</string>
+    <string name="total_incidents">Total Incidents</string>
+    <string name="getcrimedata">Get Crime data</string>
+
+    <string name="overall">Overall</string>
+    <string name="seereviews">See Review</string>
+
+    <string name="Logout">Log Out</string>
+
+    <string name="Comment">Comment</string>
+
+    <string name="ApartmentName">Apartment Name</string>
+    <string name="TextView">Text View</string>
+
+</resources>
